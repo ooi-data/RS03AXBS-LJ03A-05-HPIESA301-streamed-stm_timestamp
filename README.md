@@ -1,3 +1,5 @@
-# Stream Template Repository
+# RS03AXBS-LJ03A-05-HPIESA301-streamed-stm_timestamp
 
-This repository is a template for all the other repositories.
+Stream Type: Engineering<br>
+Stream Content: Timestamp Data<br>
+Instrument Group Code: HPIES<br>
